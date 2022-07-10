@@ -1,1 +1,4 @@
-# SOLUTION
+# SOLUTION (Mihika Raj (11101172021))(Akansha Kumar(1291172021))  EMPLOYEE ATTRITION
+https://colab.research.google.com/drive/1QsBiCdqRuHhxFKeDSlIw4m0g6WBDtOjV?usp=sharing
+Here, we can clearly see that the Random Foreast model has highest accuracy i.e.,86.413%, KNN model has an accuracy of 85.034% and Logistic regression has least accuracy of 84.126%.
+The Random Forest algorithm demonstrated the best capabilities to predict the employees attrition. The accuracy for Random Forest Model is highest with 86.413% which is considered as best accuracy thats why we have selected this model.A random forest is an aggregation of random trees. The data set includes information about the current employees and the employees who had already quit their job with almost 50 valuable information units. ML learning has the potential to make predictions to anticipate employee attrition.
